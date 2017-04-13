@@ -1,0 +1,8 @@
+mkdir bmi
+pip install jupyter numpy pandas scipy plotly networkx
+
+
+
+https://plot.ly/ipython-notebooks/bioinformatics/
+
+
